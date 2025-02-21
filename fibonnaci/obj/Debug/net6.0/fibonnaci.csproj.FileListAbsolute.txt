@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\fibonnaci\bin\Debug\net6.0\fibonnaci.exe
+C:\Users\acer\Desktop\fibonnaci\bin\Debug\net6.0\fibonnaci.deps.json
+C:\Users\acer\Desktop\fibonnaci\bin\Debug\net6.0\fibonnaci.runtimeconfig.json
+C:\Users\acer\Desktop\fibonnaci\bin\Debug\net6.0\fibonnaci.dll
+C:\Users\acer\Desktop\fibonnaci\bin\Debug\net6.0\fibonnaci.pdb
+C:\Users\acer\Desktop\fibonnaci\obj\Debug\net6.0\fibonnaci.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\fibonnaci\obj\Debug\net6.0\fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\fibonnaci\obj\Debug\net6.0\fibonnaci.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\fibonnaci\obj\Debug\net6.0\fibonnaci.AssemblyInfo.cs
+C:\Users\acer\Desktop\fibonnaci\obj\Debug\net6.0\fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\fibonnaci\obj\Debug\net6.0\fibonnaci.dll
+C:\Users\acer\Desktop\fibonnaci\obj\Debug\net6.0\refint\fibonnaci.dll
+C:\Users\acer\Desktop\fibonnaci\obj\Debug\net6.0\fibonnaci.pdb
+C:\Users\acer\Desktop\fibonnaci\obj\Debug\net6.0\fibonnaci.genruntimeconfig.cache
+C:\Users\acer\Desktop\fibonnaci\obj\Debug\net6.0\ref\fibonnaci.dll
